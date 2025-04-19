@@ -1,4 +1,4 @@
-# supply-chain-optimization
+# Supply Chain Optimization
 An interactive web application built with Streamlit, Pandas, Plotly, and scikit-learn to simulate and forecast supply chain logistics.
 This project models supply chain performance using randomly-generated, cyclically patterned data and provides real-time analytics and linear regression forecasting.
 
