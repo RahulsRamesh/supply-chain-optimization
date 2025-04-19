@@ -4,6 +4,10 @@ This project models supply chain performance using randomly-generated, cyclicall
 
 
 
+https://github.com/user-attachments/assets/30b01d3d-2d7e-46e4-bfa2-e1f18a6edbaf
+
+
+
 **To run locally:**
 
 streamlit run supplychainoptimization_linreg.py
